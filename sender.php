@@ -26,4 +26,4 @@ echo " [x] Sent 'Hi!'\n";
 
 //close channel and connection
 $channel->close();
-$connection->close();
+$conn->close();
